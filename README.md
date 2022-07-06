@@ -28,12 +28,6 @@ The analysis of the election show that:
     - Diana DeGette, who received 73.8% and 272,892 votes
 
 ## Challenge Overview
-This challenge involved writing code to pull out pieces of information rather than looking at everything. 
-This allowed us to analyze a reasonable amount of data without losing important information. 
-The code we wrote calculated the total number of votes cast, a list of all the candidates in the vote, and calculating number of votes and percentages of each candidate. 
-Lastly, we organized the information by opening a new file through the same code and writing a short list of our findings. 
-In this new file, we included the winner of the election based on the popular vote.
 
 ## Challenge Summary
-This challenge was good. Some parts were simple, like writing variables, but using the modes was difficult for me.
-I struggled with using git bash to push my files, but in the end I see how quick and useful this can be. 
+
