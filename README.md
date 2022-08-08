@@ -49,8 +49,8 @@ The Election Audit Results
 ## Challenge Summary
 - I propose this script to be used for all upcoming elections. I believe the code that is already set up can be easily modified for the use of all election data as it is designed to loop through and calculate the highest numbers/ the most votes. It can be used as an easy summary of how an election went for safe keeping or even for analysis to be used in upcoming elections. The code is set up using a specific location, so it would be really simple to use it for any type of election.
 - Modification example 1
-    - Changing the data.
+    - Changing the data files.
         It would be simple to replace the old data files with the new ones. This would be a simple modification since the only editing is to replace the files using the same name so the data doesn't change.
 - Modification example 2
-    - Change the path to the new data.
+    - Change the data path.
         Changing the path to the data involves more code but it might allow for more storage of information. It would involve changing the actual code but would be beneficial if it is important to keep records of previous elections.
