@@ -31,6 +31,9 @@ The analysis of the election show that:
 The Election Audit
 - The election audit that I created was to read the election data. Code was created to organize and seperate the information into a readable format. This created two sections, candidates and counties. The election audit read the votes per category, the percentage out of all the votes, and the winners of both categories.
 
+![The election analysis(election results) txt file](https://user-images.githubusercontent.com/106329824/183518517-012314f3-9c19-495c-83d2-2f50352fd2a6.png)
+
+
 The Election Audit Results
 - There were 369,711 votes cast in this congressional election.
 
@@ -45,6 +48,8 @@ The Election Audit Results
     - Candidate Diana DeGette recieved 272,892 votes. This is a total of 73.8% of all votes for candidates.
     - Candidate Raymon Anthony Doane recieved 11,606 votes. This is a total of 3.1% of all votes for candidates.
         - Candidate Diana DeGette has the largest number of votes.
+
+![The results](https://user-images.githubusercontent.com/106329824/183518317-c3a726f3-ede0-4783-85a7-8720f692832e.png)
 
 ## Challenge Summary
 - I propose this script to be used for all upcoming elections. I believe the code that is already set up can be easily modified for the use of all election data as it is designed to loop through and calculate the highest numbers/ the most votes. It can be used as an easy summary of how an election went for safe keeping or even for analysis to be used in upcoming elections. The code is set up using a specific location, so it would be really simple to use it for any type of election.
