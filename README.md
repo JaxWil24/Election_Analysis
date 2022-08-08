@@ -31,6 +31,7 @@ The analysis of the election show that:
 The Election Audit
 - The election audit that I created was to read the election data. Code was created to organize and seperate the information into a readable format. This created two sections, candidates and counties. The election audit read the votes per category, the percentage out of all the votes, and the winners of both categories.
 
+Here is the text file with all the information in it.
 ![The election analysis(election results) txt file](https://user-images.githubusercontent.com/106329824/183518517-012314f3-9c19-495c-83d2-2f50352fd2a6.png)
 
 
@@ -49,6 +50,7 @@ The Election Audit Results
     - Candidate Raymon Anthony Doane recieved 11,606 votes. This is a total of 3.1% of all votes for candidates.
         - Candidate Diana DeGette has the largest number of votes.
 
+Here is the output from the VS-Code terminal using the code from the module.
 ![The results](https://user-images.githubusercontent.com/106329824/183518317-c3a726f3-ede0-4783-85a7-8720f692832e.png)
 
 ## Challenge Summary
