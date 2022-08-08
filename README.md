@@ -29,23 +29,28 @@ The analysis of the election show that:
 
 ## Challenge Overview
 The Election Audit
--Purpose
+- The election audit that I created was to read the election data. Code was created to organize and seperate the information into a readable format. This created two sections, candidates and counties. The election audit read the votes per category, the percentage out of all the votes, and the winners of both categories.
+
 The Election Audit Results
-- There were 'x' votes cast in this congressional election.
+- There were 369,711 votes cast in this congressional election.
 
 - County results were: 
-    - County 'x' recieved 'y' votes. This is a total of 'z'% of all votes for county.
-    - County 'x' recieved 'y' votes. This is a total of 'z'% of all votes for county.
-    - County 'x' recieved 'y' votes. This is a total of 'z'% of all votes for county.
-        - County 'x' have the largest number of votes.
+    - Jefferson recieved 38,855 votes. This is a total of 10.5% of all votes for county.
+    - Denver recieved 306,055 votes. This is a total of 82.8% of all votes for county.
+    - Arapahoe recieved 24,801 votes. This is a total of 6.7% of all votes for county.
+        - Denver has the largest number of votes.
 
 - Candidate results were:
-    - Candidate 'x'recieved 'y' votes. This is a total of 'z'% of all votes for candidates.
-    - Candidate 'x'recieved 'y' votes. This is a total of 'z'% of all votes for candidates.
-    - Candidate 'x'recieved 'y' votes. This is a total of 'z'% of all votes for candidates.
-        - Candidate 'x' have the largest number of votes.
+    - Candidate Charles Casper Stockham recieved 85,213 votes. This is a total of 23% of all votes for candidates.
+    - Candidate Diana DeGette recieved 272,892 votes. This is a total of 73.8% of all votes for candidates.
+    - Candidate Raymon Anthony Doane recieved 11,606 votes. This is a total of 3.1% of all votes for candidates.
+        - Candidate Diana DeGette has the largest number of votes.
 
 ## Challenge Summary
-- Business proposal to election commission how this script can be used, with modifications, for any election.
+- I propose this script to be used for all upcoming elections. I believe the code that is already set up can be easily modified for the use of all election data as it is designed to loop through and calculate the highest numbers/ the most votes. It can be used as an easy summary of how an election went for safe keeping or even for analysis to be used in upcoming elections. The code is set up using a specific location, so it would be really simple to use it for any type of election.
 - Modification example 1
+    - Changing the data.
+        It would be simple to replace the old data files with the new ones. This would be a simple modification since the only editing is to replace the files using the same name so the data doesn't change.
 - Modification example 2
+    - Change the path to the new data.
+        Changing the path to the data involves more code but it might allow for more storage of information. It would involve changing the actual code but would be beneficial if it is important to keep records of previous elections.
