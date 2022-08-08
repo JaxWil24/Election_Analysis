@@ -37,13 +37,13 @@ The Election Audit Results
     - County 'x' recieved 'y' votes. This is a total of 'z'% of all votes for county.
     - County 'x' recieved 'y' votes. This is a total of 'z'% of all votes for county.
     - County 'x' recieved 'y' votes. This is a total of 'z'% of all votes for county.
-- County 'x' have the largest number of votes.
+        - County 'x' have the largest number of votes.
 
 - Candidate results were:
     - Candidate 'x'recieved 'y' votes. This is a total of 'z'% of all votes for candidates.
     - Candidate 'x'recieved 'y' votes. This is a total of 'z'% of all votes for candidates.
     - Candidate 'x'recieved 'y' votes. This is a total of 'z'% of all votes for candidates.
-- Candidate 'x' have the largest number of votes.
+        - Candidate 'x' have the largest number of votes.
 
 ## Challenge Summary
 - Business proposal to election commission how this script can be used, with modifications, for any election.
