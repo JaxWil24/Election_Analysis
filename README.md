@@ -1,13 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
-
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+A Colorado Board of Elections requested an audit for the local congressional election. The election audit read the election data to organize and seperate information into a readable format. This created two sections, candidates and counties. The election audit read the votes per category, the percentage out of all the votes, and the winners of both categories.
 
 ## Resources
 - Data Source: election_results.csv
@@ -15,42 +9,30 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
--There were 369,711 votes cast in election.
--The candidates were:
-    - Charles Casper Stockham
-    - Diana DeGette
-    - Raymon Anthony Doane
-- The candidate results were:
-    - Charles Casper Stockham received 23.0% of the votes and 85,213 votes
-    - Diana DeGette received 73.8% of the votes and 272,892 votes
-    - Raymon Anthony Doane received 3.1% of the votes and 11,606 votes
--The winner of the election was:
-    - Diana DeGette, who received 73.8% and 272,892 votes
+* There were 369,711 votes cast in election.
+![The votes](https://user-images.githubusercontent.com/106329824/195368758-87ecae8a-3bc4-49a0-ae8d-69f6961031c2.png)
 
-## Challenge Overview
-The Election Audit
-- The election audit that I created was to read the election data. Code was created to organize and seperate the information into a readable format. This created two sections, candidates and counties. The election audit read the votes per category, the percentage out of all the votes, and the winners of both categories.
+The candidate results were:
+    * Charles Casper Stockham received 23.0% of the votes and 85,213 votes
+    * Diana DeGette received 73.8% of the votes and 272,892 votes
+    * Raymon Anthony Doane received 3.1% of the votes and 11,606 votes
+![The candidates](https://user-images.githubusercontent.com/106329824/195368667-18881e28-d7ac-4bbc-9b93-8b3eed3d43e1.png)
+    
+* The winner of the election was:
+    *  Diana DeGette, who received 73.8% and 272,892 votes
+![The winner](https://user-images.githubusercontent.com/106329824/195369106-970e20c6-c2ac-42af-9ac9-0f6e22cd5c8f.png)
 
-Here is the text file with all the information in it.
+The County results were: 
+    * Jefferson recieved 38,855 votes. This is a total of 10.5% of all votes for county.
+    * Denver recieved 306,055 votes. This is a total of 82.8% of all votes for county.
+    * Arapahoe recieved 24,801 votes. This is a total of 6.7% of all votes for county.
+        * Denver has the largest number of votes.
+![Countyj](https://user-images.githubusercontent.com/106329824/195370916-e7ad44f5-73dc-45e7-943b-059644e3f2ba.png)
+
+Creating a text file with the processed information.
 ![The election analysis(election results) txt file](https://user-images.githubusercontent.com/106329824/183518517-012314f3-9c19-495c-83d2-2f50352fd2a6.png)
 
-
-The Election Audit Results
-- There were 369,711 votes cast in this congressional election.
-
-- County results were: 
-    - Jefferson recieved 38,855 votes. This is a total of 10.5% of all votes for county.
-    - Denver recieved 306,055 votes. This is a total of 82.8% of all votes for county.
-    - Arapahoe recieved 24,801 votes. This is a total of 6.7% of all votes for county.
-        - Denver has the largest number of votes.
-
-- Candidate results were:
-    - Candidate Charles Casper Stockham recieved 85,213 votes. This is a total of 23% of all votes for candidates.
-    - Candidate Diana DeGette recieved 272,892 votes. This is a total of 73.8% of all votes for candidates.
-    - Candidate Raymon Anthony Doane recieved 11,606 votes. This is a total of 3.1% of all votes for candidates.
-        - Candidate Diana DeGette has the largest number of votes.
-
-Here is the output from the VS-Code terminal using the code from the module.
+The output from the VS-Code terminal.
 ![The results](https://user-images.githubusercontent.com/106329824/183518317-c3a726f3-ede0-4783-85a7-8720f692832e.png)
 
 ## Challenge Summary
